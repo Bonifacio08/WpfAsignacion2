@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfAsignacion2.EjerciciosCap5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAsignacion2"
+        mc:Ignorable="d"
+        Title="EjerciciosCap5" Height="295" Width="348">
+    <Grid x:Name="Prueva">
+        <Button Name="BtnEjercicio1" Content="Ejercicio4" HorizontalAlignment="Center" Margin="0,66,0,0" VerticalAlignment="Top" Height="37" Width="92" Click="BtnEjercicio4"/>
+        <Button Content="Ejercicio5" HorizontalAlignment="Center" VerticalAlignment="Center" Click="BtnEjercicio5" Height="39" Width="92"/>
+
+    </Grid>
+</Window>
